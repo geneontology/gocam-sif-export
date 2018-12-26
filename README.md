@@ -15,7 +15,7 @@ In this format, the SIF is extended to represent the actual relationships presen
 
 1. Check nodejs is installed, if not, go to [NodeJS](http://www.nodejs.org)
 2. Clone this repository and run ```npm install```
-3. Then run ```node ttl2sif.js <gocam:ttl:folder> <sif:output:folder>```
+3. Then run ```node ttl2sif.js <gocam:ttl:folder> <sif:output:folder> <sif:output:zip>```
 
 Note: 
 * should be run on the TTL folder containing production GO-CAMs
